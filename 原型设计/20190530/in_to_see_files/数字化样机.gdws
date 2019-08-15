@@ -1,0 +1,58 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "数字化样机">
+	<OpenFiles
+		CID = "1">
+		<File
+			FileID = "740128F5-2F6D-4695-AA93D27935DD41C2"
+			RootPath = "$Container"
+			RelativePathname = "入口.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "312AA4A7-9E9A-450B-B38F88B031C51D2C"
+			RootPath = "$Container"
+			RelativePathname = "雷达.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "73D1789E-3D3E-47F6-B9C4219653F1B5BD"
+			RootPath = "$Container"
+			RelativePathname = "算法组件库管理.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "AA3FBEB3-30FF-4D56-AC2EF5B9AD8941F7"
+			RootPath = "$Container"
+			RelativePathname = "运算流程设计.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "18C7121C-2650-40B7-A9525326448FA512"
+			RootPath = "$Container"
+			RelativePathname = "算法状态监控.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "691D9D47-9FCB-45A7-897A6BEBE619B518"
+			RootPath = "$Container"
+			RelativePathname = "数据显示分析.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D73E87A7-F518-48C0-B1AC7C917FBC7267"
+			RootPath = "$Container"
+			RelativePathname = "设备状态监测.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "2C5E2220-F9AA-4341-A2ACD9C21F91878A"
+			RootPath = "$Container"
+			RelativePathname = "退出系统.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "444AD43B-E6C8-4871-B63930DE62BBCEB9"
+			RootPath = "$Container"
+			RelativePathname = "运算集群管理.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "4F869324-E10A-48AB-959DB9E9C7ACA1AA"
+			RootPath = "$Container"
+			RelativePathname = "登录.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

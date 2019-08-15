@@ -1,0 +1,1214 @@
+<Screen
+	CID = "910785006"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "910757860"
+			Type = "FrameWindow"
+			X = "-1147"
+			Y = "-328"
+			Width = "1900"
+			Height = "1060"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Title = "Maximised Application"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "1"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "11"
+			Icon = "DefaultApp"/>
+		<Element
+			CID = "910770214"
+			Type = "Tree"
+			X = "-1145"
+			Y = "-258"
+			Width = "240"
+			Height = "742"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,9"
+			HighlightColour = "178,180,191,0,14"
+			HighlightTextColour = "0,0,0,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "100"
+			NextItemID = "44"
+			IsDisabled = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasButtons = "1"
+			HasLines = "1"
+			HasLinesAtRoot = "0"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IconMargin = "0"
+			ItemHeight = "16"
+			Icons = "Folders"
+			SelectionHighlight = "Text">
+			<TreeItem
+				ItemID = "1"
+				Text = "RFLP树"
+				IsBold = "1"
+				IsItalic = "0"
+				IsChecked = "0"
+				IsExpanded = "1"
+				IsSelected = "0"
+				HasCustomTextColour = "0"
+				TextColour = "0,0,0,0,9">
+				<Icon
+					RootPath = "$Container"
+					Filename = "_Icons\RFLP.ico"
+					IconIndex = "0"/>
+				<TreeItem
+					ItemID = "2"
+					Text = "概念数字样机"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,9">
+					<Icon
+						RootPath = "$Container"
+						Filename = "_Icons\prototype.ico"
+						IconIndex = "0"/>
+					<TreeItem
+						ItemID = "5"
+						Text = "Requirement"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "1"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Container"
+							Filename = "_Icons\database_16px_1232053_easyicon.net.ico"
+							IconIndex = "0"/>
+						<TreeItem
+							ItemID = "23"
+							Text = "xxx产品能力目录"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "17"
+							Text = "xxx产品功能风格"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "6"
+							Text = "xxx产品总需求"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "11"
+							Text = "yyy分机设计风格1"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "12"
+							Text = "yyy分机设计风格2"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "29"
+							Text = "yyy分机设计风格3"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "30"
+							Text = "yyy分机设计风格4"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "31"
+							Text = "yyy分机设计风格5"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "32"
+							Text = "yyy分机设计风格6"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "33"
+							Text = "yyy分机设计风格7"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\gainian.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+					</TreeItem>
+					<TreeItem
+						ItemID = "24"
+						Text = "Logical"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "1"
+						IsExpanded = "1"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Container"
+							Filename = "_Icons\package_games_logic_16px_1078264_easyicon.net.ico"
+							IconIndex = "0"/>
+						<TreeItem
+							ItemID = "25"
+							Text = "系统逻辑方案"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\solution_16px_1215387_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "26"
+							Text = "Connections"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\solution_16px_1215387_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "27"
+							Text = "Implement Relations"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\solution_16px_1215387_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+					</TreeItem>
+				</TreeItem>
+				<TreeItem
+					ItemID = "3"
+					Text = "功能数字样机"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,9">
+					<Icon
+						RootPath = "$Container"
+						Filename = "_Icons\prototype.ico"
+						IconIndex = "0"/>
+					<TreeItem
+						ItemID = "7"
+						Text = "Functional"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "1"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Container"
+							Filename = "_Icons\function_16px_1221450_easyicon.net.ico"
+							IconIndex = "0"/>
+						<TreeItem
+							ItemID = "13"
+							Text = "系统功能分解"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "22"
+							Text = "工作模式1"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "14"
+							Text = "工作模式2"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "15"
+							Text = "工作模式3"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "36"
+							Text = "工作模式4"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "34"
+							Text = "工作模式5"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "35"
+							Text = "工作模式6"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\system_update_tv_16px_1182291_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "18"
+							Text = "xxx产品系统功能1"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "19"
+							Text = "xxx产品系统功能2"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "20"
+							Text = "xxx产品系统功能3"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "37"
+							Text = "xxx产品系统功能4"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "38"
+							Text = "xxx产品系统功能5"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "39"
+							Text = "xxx产品系统功能6"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "21"
+							Text = "Connection"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\function_16px_1216661_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+					</TreeItem>
+				</TreeItem>
+				<TreeItem
+					ItemID = "4"
+					Text = "工程数字样机"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,9">
+					<Icon
+						RootPath = "$Container"
+						Filename = "_Icons\prototype.ico"
+						IconIndex = "0"/>
+					<TreeItem
+						ItemID = "8"
+						Text = "Physical"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "1"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Container"
+							Filename = "_Icons\package_settings_components_16px_1078291_easyicon.net.ico"
+							IconIndex = "0"/>
+						<TreeItem
+							ItemID = "9"
+							Text = "结构件1"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "10"
+							Text = "结构件2"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "16"
+							Text = "结构件3"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "40"
+							Text = "结构件4"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "41"
+							Text = "结构件5"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "42"
+							Text = "结构件6"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "43"
+							Text = "结构件77"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\Puzzle_Component_16px_1076017_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+						<TreeItem
+							ItemID = "28"
+							Text = "Implement Relations"
+							IsBold = "0"
+							IsItalic = "0"
+							IsChecked = "1"
+							IsExpanded = "0"
+							IsSelected = "0"
+							HasCustomTextColour = "0"
+							TextColour = "0,0,0,0,9">
+							<Icon
+								RootPath = "$Container"
+								Filename = "_Icons\solution_16px_1215387_easyicon.net.ico"
+								IconIndex = "0"/>
+						</TreeItem>
+					</TreeItem>
+				</TreeItem>
+			</TreeItem>
+		</Element>
+		<Element
+			CID = "910777315"
+			Type = "MenuBar"
+			X = "-1147"
+			Y = "-309"
+			Width = "1900"
+			Height = "22"
+			Flags = "5378"
+			UseDataTable = "0"
+			TableName = ""
+			TopEdge = "Flat"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "6"
+			LeftMargin = "0"
+			Mirror = "0">
+			<MenuBarItem
+				Item = "&amp;File"
+				ItemID = "1"/>
+			<MenuBarItem
+				Item = "&amp;Edit"
+				ItemID = "2"/>
+			<MenuBarItem
+				Item = "&amp;View"
+				ItemID = "3"/>
+			<MenuBarItem
+				Item = "&amp;Window"
+				ItemID = "4"/>
+			<MenuBarItem
+				Item = "&amp;Help"
+				ItemID = "5"/>
+		</Element>
+		<Element
+			CID = "910768720"
+			Type = "FrameWindow"
+			X = "-901"
+			Y = "-282"
+			Width = "1322"
+			Height = "762"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "255,255,255,0,6"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Title = "Mini Frame Window"
+			TitleBarHeight = "15"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "1"
+			Icon = ""/>
+		<Element
+			CID = "910763150"
+			Type = "CheckTree"
+			X = "426"
+			Y = "-257"
+			Width = "325"
+			Height = "741"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,9"
+			HighlightColour = "178,180,191,0,14"
+			HighlightTextColour = "0,0,0,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "20"
+			IsDisabled = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasButtons = "1"
+			HasLines = "1"
+			HasLinesAtRoot = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IconMargin = "0"
+			ItemHeight = "16"
+			Icons = ""
+			SelectionHighlight = "Text">
+			<TreeItem
+				ItemID = "1"
+				Text = "Tree"
+				IsBold = "1"
+				IsItalic = "0"
+				IsChecked = "0"
+				IsExpanded = "1"
+				IsSelected = "0"
+				HasCustomTextColour = "0"
+				TextColour = "0,0,0,0,0">
+				<TreeItem
+					ItemID = "2"
+					Text = "Branch"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,0">
+					<TreeItem
+						ItemID = "5"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "6"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "15"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "16"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "17"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+				</TreeItem>
+				<TreeItem
+					ItemID = "3"
+					Text = "Branch"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,0">
+					<TreeItem
+						ItemID = "7"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "11"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "12"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "13"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "14"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+				</TreeItem>
+				<TreeItem
+					ItemID = "4"
+					Text = "Branch"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,0">
+					<TreeItem
+						ItemID = "8"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "9"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "10"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "18"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+					<TreeItem
+						ItemID = "19"
+						Text = "Leaf"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,0"/>
+				</TreeItem>
+			</TreeItem>
+		</Element>
+		<Element
+			CID = "910771703"
+			Type = "TableHeading"
+			X = "425"
+			Y = "-287"
+			Width = "328"
+			Height = "30"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HeaderBackgroundColour = "224,223,227,0,16"
+			HeaderBorderColour = "157,157,161,0,17"
+			HeaderTextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Heading"
+			Margin = "0"
+			Style = "SemiFlat"
+			ColumnSort = "None"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "910765891"
+			Type = "TableHeading"
+			X = "-1145"
+			Y = "-287"
+			Width = "240"
+			Height = "30"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HeaderBackgroundColour = "224,223,227,0,16"
+			HeaderBorderColour = "157,157,161,0,17"
+			HeaderTextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Heading"
+			Margin = "0"
+			Style = "SemiFlat"
+			ColumnSort = "None"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "1907120417"
+			Type = "Table"
+			X = "-1145"
+			Y = "484"
+			Width = "1896"
+			Height = "248"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HeaderBackgroundColour = "224,223,227,0,16"
+			HeaderBorderColour = "157,157,161,0,17"
+			HeaderTextColour = "0,0,0,0,19"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "127,157,185,0,12"
+			GridLineColour = "236,238,243,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			HighlightColour = "178,180,191,0,14"
+			HighlightTextColour = "0,0,0,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "3"
+			NextRowID = "6"
+			IsFlat = "0"
+			IsHeaderBold = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			HighlightSelections = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "22"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			ValueColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "Table"
+					VisibleCondition = ""
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "Grid"
+					VisibleCondition = ""
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					RowID = "1"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "2"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "3"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "4"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "5"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "910754040"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

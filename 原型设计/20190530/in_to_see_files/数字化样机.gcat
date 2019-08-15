@@ -1,0 +1,118 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "18C7121C-2650-40B7-A9525326448FA512"
+			RelativePath = "算法状态监控.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "实时状态监控.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "1B72A1CC-CD9A-4463-96045853B0370C1D"
+			RelativePath = "images\Clip002.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "images\Clip002.png"/>
+		<FileInfo
+			ID = "1CD7538F-8EE8-4CEC-A5921D3F0577B31E"
+			RelativePath = "img\雷达.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "img\雷达.jpg"/>
+		<FileInfo
+			ID = "2C5E2220-F9AA-4341-A2ACD9C21F91878A"
+			RelativePath = "退出系统.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "退出系统.gui"/>
+		<FileInfo
+			ID = "312AA4A7-9E9A-450B-B38F88B031C51D2C"
+			RelativePath = "雷达.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "雷达.gui"/>
+		<FileInfo
+			ID = "36D92C3F-8F0B-4614-8A5EDD5DF09BE993"
+			RelativePath = "images\Clip001.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "images\Clip001.png"/>
+		<FileInfo
+			ID = "444AD43B-E6C8-4871-B63930DE62BBCEB9"
+			RelativePath = "运算集群管理.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "运算集群管理.gui"/>
+		<FileInfo
+			ID = "4F869324-E10A-48AB-959DB9E9C7ACA1AA"
+			RelativePath = "登录.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "login.gui"/>
+		<FileInfo
+			ID = "50A97235-0CB2-437A-98324F1A773640D2"
+			RelativePath = "images\Clip004.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "images\Clip004.png"/>
+		<FileInfo
+			ID = "528EA410-F821-4DE0-BC45838949256047"
+			RelativePath = "数字化样机.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "数字化样机.autosave"/>
+		<FileInfo
+			ID = "691D9D47-9FCB-45A7-897A6BEBE619B518"
+			RelativePath = "数据显示分析.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "数据显示分析.gui"/>
+		<FileInfo
+			ID = "73D1789E-3D3E-47F6-B9C4219653F1B5BD"
+			RelativePath = "算法组件库管理.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "算法组件管理.gui"/>
+		<FileInfo
+			ID = "740128F5-2F6D-4695-AA93D27935DD41C2"
+			RelativePath = "入口.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Main.gui"/>
+		<FileInfo
+			ID = "74BC747E-915D-498F-B1C53DDFD53DF015"
+			RelativePath = "img\电子对抗.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "img\电子对抗.jpg"/>
+		<FileInfo
+			ID = "975F3A94-8AD9-4099-BCFF4610B3DAD0AE"
+			RelativePath = "img\设备.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "img\设备.png"/>
+		<FileInfo
+			ID = "A7AA9C19-3D63-47DD-A03641E5AE72A27F"
+			RelativePath = "_Icons\add_1.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "_Icons\add_1.ico"/>
+		<FileInfo
+			ID = "AA3FBEB3-30FF-4D56-AC2EF5B9AD8941F7"
+			RelativePath = "运算流程设计.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "运算流程设计.gui"/>
+		<FileInfo
+			ID = "BF93294D-234E-4810-B21D1A7E10EC8076"
+			RelativePath = "images\Clip003.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "images\Clip003.png"/>
+		<FileInfo
+			ID = "D46C8B9B-DA3B-48E1-8921841C468E5704"
+			RelativePath = "img\波形2.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "img\波形2.jpg"/>
+		<FileInfo
+			ID = "D48ECA2E-C9AB-4B6C-8A84063B902B4D4D"
+			RelativePath = "_Icons\add.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "_Icons\add.ico"/>
+		<FileInfo
+			ID = "D7068DBA-D97D-4165-9F2BC93935355B39"
+			RelativePath = "img\波形1.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "img\波形1.jpg"/>
+		<FileInfo
+			ID = "D73E87A7-F518-48C0-B1AC7C917FBC7267"
+			RelativePath = "设备状态监测.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "运算进度监控.gui"/>
+	</Files>
+</Catalogue>

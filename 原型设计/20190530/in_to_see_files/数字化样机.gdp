@@ -1,0 +1,61 @@
+<Project
+	CID = "1"
+	NextCID = "6">
+	<Links
+		CID = "1"/>
+	<Options
+		CID = "2"
+		UseProjectVisualStyle = "1"
+		DesignVisualStyle = "Windows Vista"
+		DesignColourScheme = "XP Silver"
+		DesignDefTypeface = "Microsoft Sans Serif"
+		DesignDefFontScale = "1.000000"
+		DesignMonoDrawing = "0"
+		DesignMonoImages = "0"
+		SimulationVisualStyle = "Windows Vista"
+		SimulationColourScheme = "XP Silver"
+		SimulationDefTypeface = "Microsoft Sans Serif"
+		SimulationDefFontScale = "1.000000"
+		SimulationMonoDrawing = "0"
+		SimulationMonoImages = "0"
+		SimBrowserBarOption = "Auto"
+		SimBackgroundFill = "Default"
+		SimBackgroundColour1 = "255,255,255,0,0"
+		SimBackgroundColour2 = "255,255,255,0,0"
+		SimBackgroundText = "Prototype"
+		SimBackgroundTextPosition = "TopLeft"
+		SimShowBackgroundStartDesignName = "1"
+		SimBackgroundTextColour = "48,128,48,0,0"
+		NextCID = "2">
+		<DataSets
+			CID = "1"/>
+	</Options>
+	<Description
+		CID = "3"
+		Author = ""
+		Organization = ""
+		URL = ""
+		Version = ""
+		Keywords = ""/>
+	<PlugIns
+		CID = "5"
+		NextCID = "2">
+		<DocGenerators
+			CID = "1"
+			NextCID = "2">
+			<CS:DocGenHTML
+				CID = "1"
+				OptionsString = ""
+				AddDateStamp = "0"
+				AddTimeStamp = "0"
+				RemoveSpaces = "0"
+				IncludeRefComponents = "0"
+				IncludeLinkedProjects = "0"
+				DeepDocDescriptions = "0"
+				IncludeOption = "0"
+				ContentOption = "0"
+				SortDesignsOption = "0"
+				LastFullDateTime = "2019-05-30 09:25:52"/>
+		</DocGenerators>
+	</PlugIns>
+</Project>

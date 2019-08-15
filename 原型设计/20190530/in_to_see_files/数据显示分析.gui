@@ -1,0 +1,273 @@
+<Screen
+	CID = "1800361131"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1055275813"
+			Type = "TabPanel"
+			X = "-161"
+			Y = "-4"
+			Width = "1033"
+			Height = "586"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "1164864936"
+			Type = "Bitmap"
+			X = "-106"
+			Y = "6"
+			Width = "434"
+			Height = "434"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FileID = "50A97235-0CB2-437A-98324F1A773640D2"
+			RootPath = "$Container"
+			Filename = "images\Clip004.png"
+			Placement = "Align"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "1218805389"
+			Type = "StaticText"
+			X = "41"
+			Y = "491"
+			Width = "141"
+			Height = "21"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "224,223,227,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "140"
+			Text = "雷达终端显示"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "816872648"
+			Type = "LineChart"
+			X = "387"
+			Y = "19"
+			Width = "424"
+			Height = "212"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			MarginLeft = "30"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "20"
+			ColourSet = ""
+			FillColour = "255,255,255,0,6"
+			AxisLineColour = "28,81,128,0,7"
+			LinesColour = "236,238,243,0,23"
+			MarkerLinesColour = "255,255,255,0,6"
+			TextColour = "0,0,0,0,9"
+			AxisLineWidth = "2"
+			LinesWidth = "1"
+			DataLineWidth = "2"
+			MarkerLineWidth = "0"
+			MarkerSize = "6"
+			Transparent = "0"
+			ShowVertAxisLeft = "1"
+			ShowVertAxisRight = "0"
+			ShowHorzAxisTop = "0"
+			ShowHorzAxisBottom = "1"
+			ShowHorzLines = "1"
+			ShowVertLines = "1"
+			ShowTicks = "1"
+			ShowLabels = "1"
+			ShowSetLabelsLeftMargin = "0"
+			ShowSetLabelsRightMargin = "0"
+			Min = "0.000000"
+			Max = "100.000000"
+			YAxisInterval = "10.000000"
+			YAxisLabelsEvery = "2"
+			XAxisLabelsEvery = "1"
+			TickLength = "4"
+			ValuePrefix = ""
+			ValueSuffix = ""
+			LabelField = ""
+			SetFields = ""
+			Labels = "2009,2010,2011,2012,2013,2014,2015,2016,2017,2018"
+			NextItemID = "4">
+			<LineChartItem
+				ItemID = "1"
+				Label = "Set 1"
+				Data = "45.3017,51.0428,63.8641,62.8417,72.8694,76.0598,86.2053,90.0103,97.6911,91.4837"/>
+			<LineChartItem
+				ItemID = "2"
+				Label = "Set 2"
+				Data = "94.3327,88.2028,97.1729,88.8016,89.747,76.4892,93.6138,69.213,73.2969,85.3804"/>
+			<LineChartItem
+				ItemID = "3"
+				Label = "Set 3"
+				Data = "39.2315,37.4358,34.8233,28.9802,42.5938,40.369,52.5873,47.1256,48.4507,46.0922"/>
+		</Element>
+		<Element
+			CID = "816850844"
+			Type = "PieChart"
+			X = "414"
+			Y = "263"
+			Width = "276"
+			Height = "280"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			OutlineColour = "255,255,255,0,6"
+			ExternalTextColour = "0,0,255,0,0"
+			InternalTextColour = "255,255,255,0,0"
+			OtherColour = "255,104,32,0,0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Small"
+			NextItemID = "5"
+			Opacity = "255"
+			BorderWidth = "2"
+			InnerRadius = "0"
+			StartAngle = "270"
+			OtherOffset = "0"
+			MinSegmentPercent = "2.000000"
+			MaxSegmentPercent = "100.000000"
+			GradientStrength = "0.360000"
+			InternalTextPos = "0.700000"
+			ExternalTextPos = "1.050000"
+			ColoursByItem = "1"
+			OtherLabel = "Other"
+			ValuePrefix = ""
+			ValueSuffix = ""
+			ColourSet = ""
+			LabelField = ""
+			ValueField = ""
+			OffsetField = ""
+			DefaultOffset = "0"
+			FillStyle = "LinearGradientOut"
+			SortOption = "Descending"
+			ShowLabel = "Internal"
+			ShowValue = "Internal"
+			ShowPercentage = "External">
+			<PieChartItem
+				ItemID = "1"
+				Label = "Closed"
+				Value = "40.000000"
+				Offset = "0"/>
+			<PieChartItem
+				ItemID = "2"
+				Label = "Open"
+				Value = "30.000000"
+				Offset = "0"/>
+			<PieChartItem
+				ItemID = "3"
+				Label = "Pending"
+				Value = "20.000000"
+				Offset = "0"/>
+			<PieChartItem
+				ItemID = "4"
+				Label = "New"
+				Value = "10.000000"
+				Offset = "0"/>
+		</Element>
+		<Element
+			CID = "93329366"
+			Type = "ChartKey"
+			X = "731"
+			Y = "448"
+			Width = "86"
+			Height = "99"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			MarginLeft = "6"
+			MarginRight = "6"
+			MarginTop = "6"
+			MarginBottom = "6"
+			BorderColour = "28,81,128,0,7"
+			BoxOutlineColour = "28,81,128,0,7"
+			FillColour = "255,255,255,0,0"
+			TextColour = "0,0,0,0,9"
+			OtherColour = "192,192,192,0,0"
+			ColourSet = ""
+			ColoursByItem = "0"
+			Transparent = "0"
+			ShrinkToFit = "1"
+			RowSpacing = "6"
+			ColumnSpacing = "12"
+			BorderWidth = "2"
+			BoxSize = "16"
+			BoxOutlineWidth = "1"
+			Mirror = "0"
+			MinPercent = "2.000000"
+			MaxPercent = "100.000000"
+			OtherLabel = "Other"
+			Layout = "VerticalGrid"
+			SortOption = "Descending"
+			LabelField = ""
+			ValueField = ""
+			NextItemID = "0">
+			<ChartKeyItem
+				ItemID = "1"
+				Label = "Closed"/>
+			<ChartKeyItem
+				ItemID = "2"
+				Label = "Open"/>
+			<ChartKeyItem
+				ItemID = "3"
+				Label = "Pending"/>
+			<ChartKeyItem
+				ItemID = "4"
+				Label = "New"/>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1800368336"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
